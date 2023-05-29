@@ -5,7 +5,9 @@ A tagging schema that aims to reveal the true source of the content in the age o
 
 In the ever-expanding digital universe, we're witnessing a dramatic shift in the nature of content creation. Traditional human-generated content now coexists with AI-generated content and AI-assisted creations, forming a rich tapestry of synthetic media. This evolution in content production, while exciting, presents a new challenge: How can we discern the true origins of the content we consume?
 
-It's time for a solution. I'm delighted to introduce the 'ArtiFact Tag', a proposed labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
+It's time for a solution. 
+
+I'm delighted to introduce the 'ArtiFact Tag', a proposed labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
 
 ## The 'ArtiFact Tag': Unveiling the Process
 
@@ -17,7 +19,7 @@ By illuminating the 'behind-the-scenes' of content creation, we enhance credibil
 
 ## Navigating the Complexity: AI-Assisted Content
 
-AI-assisted content, where human creativity collaborates with machine power, is an exciting frontier in digital production. However, this combination makes it even more crucial to provide a transparent view of the creation process. The 'ArtiFact Tag' will disclose the methods for machine utilization in AI-assisted content clearly indicating on what extent the machine has been involved in the process through the Machine Intervention property. This will help audiences appreciate the unique blend of human ingenuity and machine efficiency.
+AI-assisted content, where human creativity collaborates with machine power, is an exciting frontier in digital production. However, this combination makes it even more crucial to provide a transparent view of the creation process. The 'ArtiFact Tag' will disclose the methods for machine utilization in AI-assisted content clearly indicating on what extent the machine has been involved in the process. This will help audiences appreciate the unique blend of human ingenuity and machine efficiency.
 
 ## Why Transparency Matters
 
@@ -39,4 +41,6 @@ As we journey into this exciting era, I invite you to join me in supporting the 
 
 In the age of synthetic media, the 'ArtiFact Tag' is more than a need. It's an imperative. 
 
-With your support, we can make this vision a reality. Let's label it right. Let's bring transparency to our digital world.
+With your support, we can make this vision a reality. Let's label it right. 
+
+Let's bring transparency to our digital world.
