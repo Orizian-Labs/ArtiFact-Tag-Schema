@@ -56,12 +56,14 @@ Machine Intervention: Medium
 
 AI was utilized to condense and summarize a larger piece of content, providing a concise overview.
 
-#### Grammar Enhancement
+
+### Grammar Enhancement
 Machine Intervention: Low
 
 AI was used to improve the article's grammar, punctuation, and overall linguistic accuracy.
 
-#### Content Structure Generation
+
+### Content Structure Generation
 Machine Intervention: Low
 
 AI was used to assist in organizing and structuring the article, ensuring logical flow and coherence.
