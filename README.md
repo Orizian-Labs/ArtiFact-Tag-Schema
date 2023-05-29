@@ -5,13 +5,15 @@ A tagging schema that aims to reveal the true source of the content in the age o
 
 In the ever-expanding digital universe, we're witnessing a dramatic shift in the nature of content creation. Traditional human-generated content now coexists with AI-generated content and AI-assisted creations, forming a rich tapestry of synthetic media. This evolution in content production, while exciting, presents a new challenge: How can we discern the true origins of the content we consume?
 
-It's time for a solution. I'm delighted to introduce the 'ArtiFact Tag', a proposed labeling schema designed to bring transparency to digital content production.
+It's time for a solution. I'm delighted to introduce the 'ArtiFact Tag', a proposed labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
 
 ## The 'ArtiFact Tag': Unveiling the Process
 
 The 'ArtiFact Tag' aims to provide clarity in an increasingly complex media landscape. This label will reveal whether content is human-generated, machine-generated, or a blend of both, indicating the extent of AI's involvement in content creation.
 
-Why is this important? It's about trust. Trust between creators and consumers. Trust in the process. Trust in the integrity of the content we consume. By illuminating the 'behind-the-scenes' of content creation, we enhance credibility, uphold accountability, and foster trust in the digital content we encounter.
+Why is this important? It's about trust. Trust between creators and consumers. Trust in the process. Trust in the integrity of the content we consume. 
+
+By illuminating the 'behind-the-scenes' of content creation, we enhance credibility, uphold accountability, and foster trust in the digital content we encounter.
 
 ## Navigating the Complexity: AI-Assisted Content
 
@@ -20,6 +22,10 @@ AI-assisted content, where human creativity collaborates with machine power, is 
 ## Why Transparency Matters
 
 In the age of synthetic media, transparency is not a luxury; it's a necessity. A clear labeling system allows audiences to critically evaluate the content, understand potential biases or limitations inherent in AI algorithms, and helps them consume content through appropriate lenses.
+
+The 'ArtiFact Tag' is not a tool to judge whether is right or wrong to use of AI in content generation. Instead, it serves as a tool for transparency, reminding us that as creators, we must be aware that our audience is diverse and unknown and may have different views with regards of the use of generative models. 
+
+Transparency in labeling reinforces our commitment to honesty and openness, fostering a trusting relationship with our content consumers.
 
 ## Ethics in the AI-driven World
 
