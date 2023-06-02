@@ -36,15 +36,20 @@ A transparent labeling schema also promotes ethical considerations in content pr
 ## Architectural Principles
 The ArtiFact schema is being designed and developed with a set of foundational architectural principles in mind (CESFI) and is rooted in a dual commitment to creating a transformative tagging schema that is both user-friendly for humans and efficiently interpretable by machines. Weaving together the needs of these two distinct yet intertwined entities forms the core of our architectural principles:
 
-Comprehensiveness (of information): We aim to create a tagging system that covers the full breadth of AI's involvement in content creation. From minor assistance to full autonomy, each interaction type is represented in our schema to provide a transparent view of AI's role.
+### Comprehensiveness (of information)
+We aim to create a tagging system that covers the full breadth of AI's involvement in content creation. From minor assistance to full autonomy, each interaction type is represented in our schema to provide a transparent view of AI's role.
 
-Ease of Use: At the heart of our approach is the user experience. We understand the importance of simplicity and intuitiveness in design. Therefore, our tagging system is built to be user-friendly both for the Creator and for the Consumer, ensuring that the process of applying tags and identifying is smooth and straightforward.
+### Ease of Use
+At the heart of our approach is the user experience. We understand the importance of simplicity and intuitiveness in design. Therefore, our tagging system is built to be user-friendly both for the Creator and for the Consumer, ensuring that the process of applying tags and identifying is smooth and straightforward.
 
-Scalability: We acknowledge that the use of AI in content creation is a rapidly growing field. Our schema is thus designed to be scalable, capable of adapting and growing to accommodate an increasing volume and diversity of content and users.
+### Scalability
+We acknowledge that the use of AI in content creation is a rapidly growing field. Our schema is thus designed to be scalable, capable of adapting and growing to accommodate an increasing volume and diversity of content and users.
 
-Flexibility: As the landscape of AI and content creation evolves, so will the ArtiFact schema. We're committed to maintaining a system that can adapt and evolve to keep pace with emerging technologies and changing user needs.
+### Flexibility
+As the landscape of AI and content creation evolves, so will the ArtiFact schema. We're committed to maintaining a system that can adapt and evolve to keep pace with emerging technologies and changing user needs.
 
-Interoperability: Our tagging schema is not an island. It is designed to integrate seamlessly with other systems, tools, and platforms. This interoperability means that ArtiFact can function effectively within the broader digital infrastructure, facilitating compatibility and collaboration.
+### Interoperability
+Our tagging schema is not an island. It is designed to integrate seamlessly with other systems, tools, and platforms. This interoperability means that ArtiFact can function effectively within the broader digital infrastructure, facilitating compatibility and collaboration.
 
 In shaping ArtiFact, these architectural principles guide us in creating a tagging schema that is not only robust and detailed, but also user-friendly, adaptable, and future-ready. Our aim is to enhance the AI-content creation field, providing transparency and understanding through a system that is holistic, future proof and ethical.
 
