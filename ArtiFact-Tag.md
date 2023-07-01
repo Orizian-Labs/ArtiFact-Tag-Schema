@@ -1,4 +1,4 @@
-# ArtiFact Tag Schema v0.1
+# ArtiFact Tag Schema v0.12
 
 ## Human Generated 
 This content has been entirely created by a human author.
@@ -19,6 +19,10 @@ AI generative models were used to create images, videos or visual elements for t
 
 ### Paraphrasing/Rephrasing
 AI models were used to assist in rephrasing or paraphrasing certain sections of the article while maintaining the original meaning.
+
+
+### Bias Mitigation
+AI models were employed to help identify and mitigate biases in the article's content, ensuring a more objective and balanced representation of information. 
 
 
 ### Source Synthesis
