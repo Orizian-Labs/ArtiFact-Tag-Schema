@@ -1,5 +1,5 @@
 # ArtiFact-Tag-Schema
-A tagging schema that aims to reveal the true source of the content in the age of synthetic media
+A tagging schema that aims to reveal the true source of editorial content in the age of synthetic media
 
 ## Introduction
 
@@ -7,7 +7,7 @@ In the ever-expanding digital universe, we're witnessing a dramatic shift in the
 
 It's time for a solution. 
 
-I'm delighted to introduce the 'ArtiFact Tag', a proposed labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
+The 'ArtiFact Tag' is a labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
 
 ## The 'ArtiFact Tag': Unveiling the Process
 
@@ -52,6 +52,32 @@ As the landscape of AI and content creation evolves, so will the ArtiFact schema
 Our tagging schema is not an island. It is designed to integrate seamlessly with other systems, tools, and platforms. This interoperability means that ArtiFact can function effectively within the broader digital infrastructure, facilitating compatibility and collaboration.
 
 In shaping ArtiFact, these architectural principles guide us in creating a tagging schema that is not only robust and detailed, but also user-friendly, adaptable, and future-ready. Our aim is to enhance the AI-content creation field, providing transparency and understanding through a system that is holistic, future proof and ethical.
+
+## How to use 
+
+The ArtiFact tag is designed to be simple and straightforward for content creators to implement. Here are some guidelines on using ArtiFact:
+
+**Determine the appropriate tag** - Review the definitions for each tag category and select the one that most accurately reflects the process used to create the content. 
+
+The main options are:
+
+    Human-Generated: Content created solely by human(s) with no AI assistance.
+
+    Machine-Generated: Content created fully autonomously by an AI system.
+
+    Machine-Assisted: Content created collaboratively by human(s) and AI.
+
+**Apply the tag visibly** - Insert the appropriate ArtiFact tag on the content itself or on accompanying metadata. Make sure it is clearly visible to consumers.
+
+**Provide details (optional)** - For AI-assisted content, consider adding more details on the specific AI tools used and their contribution. This further boosts transparency.
+
+**Tag responsibly** - Select tags in good faith based on the true creation process. Accuracy and trust are key principles of ArtiFact.
+
+**Tag comprehensively** - Use ArtiFact consistently across all content types where production methods may be unclear. Wide adoption improves effectiveness.
+
+**Adapt as needed** - If creation processes change over time, update tags accordingly to stay current. Reflecting the latest methods maintains transparency.
+
+The ArtiFact tag is intended to blend seamlessly into normal content production workflows. By following these best practices, creators can integrate ArtiFact easily and users can make more informed judgments about the origins of digital media.
 
 ## The Way Forward
 
