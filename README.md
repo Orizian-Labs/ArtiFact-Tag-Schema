@@ -1,94 +1,74 @@
-# ArtiFact-Tag-Schema
-A tagging schema that aims to reveal the true source of editorial content in the age of synthetic media
+# ArtiFact-Schema
+A classification scheme for digital content in the age of synthetic media.
 
 ## Introduction
 
-In the ever-expanding digital universe, we're witnessing a dramatic shift in the nature of content creation. Traditional human-generated content now coexists with AI-generated content and AI-assisted creations, forming a rich tapestry of synthetic media. This evolution in content production, while exciting, presents a new challenge: How can we discern the true origins of the content we consume?
+In the ever-expanding digital universe, we're witnessing a dramatic shift in the nature of content creation. Traditional human-generated content now coexists with AI-generated content and AI-assisted creations, forming a rich landscape of synthetic media. This evolution in content production, while exciting, presents a new challenge: how can we discern the true origins of the content we consume?
 
-It's time for a solution. 
+The 'ArtiFact Schema' is a labeling schema designed to bring transparency to digital content production, where credibility and reliability of the source are crucial in an era inundated with information.
 
-The 'ArtiFact Tag' is a labeling schema designed to bring transparency to digital content production, especially editorial content, where credibility and reliability of the source are crucial in an era inundated with information.
+## The Modern Artifact: A Symbiosis between Humans and Machines
 
-## The 'ArtiFact Tag': Unveiling the Process
+The lines between human creativity and AI assistance are becoming more blurred. For example, many music pieces, videos, and articles are now collaboratively produced by humans and AI. 
 
-The 'ArtiFact Tag' aims to provide clarity in an increasingly complex media landscape. This label will reveal whether content is human-generated, machine-generated, or a blend of both, indicating the extent of AI's involvement in content creation.
+While some appreciate AI as an innovative tool, valuing its technical capabilities, others fear it may dilute the authenticity and individuality of artistic expression. 
+
+Economic concerns about AI impacting traditional artistic roles also play a part. 
+
+Transparency in disclosing AI's involvement, such as through the ArtiFact schema, can be pivotal in shaping perceptions and setting clear expectations in this evolving landscape.
+
+## Navigating the Complexity
+
+Clearly categorizing digital content can help audiences appreciate the new spectrum of creativity that is emerging as AI systems become more and more sophisticated.
+
+The ArtiFact Schema aims to provide clarity in an increasingly complex media landscape. The schema will reveal whether content is human-generated, machine-generated, or a blend of both, indicating the extent of AI's involvement in content creation.
 
 Why is this important? It's about trust. Trust between creators and consumers. Trust in the process. Trust in the integrity of the content we consume. 
 
-By illuminating the 'behind-the-scenes' of content creation, we enhance credibility, uphold accountability, and foster trust in the digital content we encounter.
-
-## Navigating the Complexity: AI-Assisted Content
-
-AI-assisted content, where human creativity collaborates with machine power, is an exciting frontier in digital production. However, this combination makes it even more crucial to provide a transparent view of the creation process. The 'ArtiFact Tag' will disclose the methods for machine utilization in AI-assisted content clearly indicating on what extent the machine has been involved in the process. This will help audiences appreciate the unique blend of human ingenuity and machine efficiency.
+By understanding the 'behind-the-scenes' of content creation, we enhance credibility, uphold accountability, and foster trust in the digital content we encounter.
 
 ## Why Transparency Matters
 
-In the age of synthetic media, transparency is not a luxury; it's a necessity. A clear labeling system allows audiences to critically evaluate the content, understand potential biases or limitations inherent in AI algorithms, and helps them consume content through appropriate lenses.
+In the age of synthetic media and information overload, clarity becomes a necessity. A clear classification system allows audiences to critically evaluate the content, understand potential biases or limitations inherent in AI algorithms, and helps them consume content through appropriate lenses.
 
-The 'ArtiFact Tag' is not a tool to judge whether is right or wrong to use of AI in content generation. Instead, it serves as a tool for transparency, reminding us that as creators, we must be aware that our audience is diverse and unknown and may have different views with regards of the use of generative models. 
+The ArtiFact Schema is not a measure of the morality of AI's involvement in content generation, but a tool to bring transparency over the creative process and tell more about the story of a digital artifact. 
 
-Transparency in labeling reinforces our commitment to honesty and openness, fostering a trusting relationship with our content consumers.
+In a world where audiences are vast and diverse, it's vital for creators to recognize the varying opinions on generative AI systems. 
+
+As AI becomes further woven into the fabric of our daily lives, skepticism may diminish, and its use in content might become more universally accepted. 
+
+However, we cannot turn a blind eye to the potential misuse of AI-driven content. It might be utilized to steer public opinion, propagate misinformation, and pollute our minds with biased or unverified narratives. This underscores the importance of vigilance and the ethical use of AI in content creation and dissemination. 
+
+During this phase of our digital evolution, emphasizing transparency through content classification and labeling showcases the creator's dedication to honesty, forging a bond of trust with consumers.
 
 ## Ethics in the AI-driven World
 
-A transparent labeling schema also promotes ethical considerations in content production. By openly disclosing the extent of AI involvement, we foster responsible AI practices and encourage content creators to consider the ethical aspects of AI-assisted creation.
+A transparent classification scheme promotes ethical considerations in content production. By openly disclosing the extent of AI involvement, we foster responsible AI practices and encourage content creators to consider the ethical aspects of AI-assisted creation.
 
 ## Architectural Principles
 The ArtiFact schema is being designed and developed with a set of foundational architectural principles in mind (CESFI) and is rooted in a dual commitment to creating a transformative tagging schema that is both user-friendly for humans and efficiently interpretable by machines. Weaving together the needs of these two distinct yet intertwined entities forms the core of our architectural principles:
 
 ### Comprehensiveness (of information)
-We aim to create a tagging system that covers the full breadth of AI's involvement in content creation. From minor assistance to full autonomy, each interaction type is represented in our schema to provide a transparent view of AI's role.
+We aim to create a classification system that covers the full breadth of media and different degrees of AI's involvement in content creation. From minor assistance to full autonomy, each interaction type is represented in our schema to provide a transparent view of AI's role across different media.
 
 ### Ease of Use
-At the heart of our approach is the user experience. We understand the importance of simplicity and intuitiveness in design. Therefore, our tagging system is built to be user-friendly both for the Creator and for the Consumer, ensuring that the process of applying tags and identifying is smooth and straightforward.
+At the heart of our approach is the user experience. We understand the importance of simplicity and intuitiveness in design. Therefore, our tagging system is built to be user-friendly both for creators and consumers alike, ensuring that the process of understanding tags is smooth and straightforward.
 
 ### Scalability
-We acknowledge that the use of AI in content creation is a rapidly growing field. Our schema is thus designed to be scalable, capable of adapting and growing to accommodate an increasing volume and diversity of content and users.
+We acknowledge that the use of AI in content creation is a rapidly growing field. Our schema is thus designed to be scalable capable of supporting an increasing volume, density and diversity of content.
 
 ### Flexibility
 As the landscape of AI and content creation evolves, so will the ArtiFact schema. We're committed to maintaining a system that can adapt and evolve to keep pace with emerging technologies and changing user needs.
 
 ### Interoperability
-Our tagging schema is not an island. It is designed to integrate seamlessly with other systems, tools, and platforms. This interoperability means that ArtiFact can function effectively within the broader digital infrastructure, facilitating compatibility and collaboration.
+Our tags are designed to integrate seamlessly with other systems, tools, and platforms. This interoperability means that ArtiFact can function effectively within the broader digital infrastructure, facilitating compatibility and collaboration.
 
 In shaping ArtiFact, these architectural principles guide us in creating a tagging schema that is not only robust and detailed, but also user-friendly, adaptable, and future-ready. Our aim is to enhance the AI-content creation field, providing transparency and understanding through a system that is holistic, future proof and ethical.
 
-## How to use 
-
-The ArtiFact tag is designed to be simple and straightforward for content creators to implement. Here are some guidelines on using ArtiFact:
-
-**Determine the appropriate tag** - Review the definitions for each tag category and select the one that most accurately reflects the process used to create the content. 
-
-The main options are:
-
-    Human-Generated: Content created solely by human(s) with no AI assistance.
-
-    Machine-Generated: Content created fully autonomously by an AI system.
-
-    Machine-Assisted: Content created collaboratively by human(s) and AI.
-
-**Apply the tag visibly** - Insert the appropriate ArtiFact tag on the content itself or on accompanying metadata. Make sure it is clearly visible to consumers.
-
-**Provide details (optional)** - For AI-assisted content, consider adding more details on the specific AI tools used and their contribution. This further boosts transparency.
-
-**Tag responsibly** - Select tags in good faith based on the true creation process. Accuracy and trust are key principles of ArtiFact.
-
-**Tag comprehensively** - Use ArtiFact consistently across all content types where production methods may be unclear. Wide adoption improves effectiveness.
-
-**Adapt as needed** - If creation processes change over time, update tags accordingly to stay current. Reflecting the latest methods maintains transparency.
-
-The ArtiFact tag is intended to blend seamlessly into normal content production workflows. By following these best practices, creators can integrate ArtiFact easily and users can make more informed judgments about the origins of digital media.
-
 ## The Way Forward
 
-The 'ArtiFact Tag' is a step towards a future where integrity and transparency are the pillars of digital content production. 
+The ArtiFact Schema is angoing open-source project, aiming to be a step towards a future where creativity, integrity and transparency are the pillars of digital content production. 
 
-As we journey into this exciting era, I invite you to join us in supporting the implementation of this label. Together, we can illuminate the processes behind content creation, enriching our understanding and appreciation of the evolving media landscape.
+As we journey into this exciting era, we invite you to join us in supporting the design and implementation of this label. Together, we can improve the processes behind digital content creation, enriching our understanding and appreciation of the evolving media landscape.
 
-In the age of synthetic media, the 'ArtiFact Tag' is more than a need. It's an imperative. 
-
-With your support, we can make this vision a reality. 
-
-Let's label it right. 
-
-Let's bring transparency to our digital world.
+With your support, we can make this vision a reality.
